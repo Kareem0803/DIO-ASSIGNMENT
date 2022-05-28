@@ -29,7 +29,7 @@ void LEDs_init(void);
 void BTNs_init(void);
 unsigned char IsPressed(unsigned char BTN_no);
 void setLED(unsigned char LED_no, unsigned char state);
-
+// Looking for a job
 int main(void) {
     /* Replace with your application code */
     LEDs_init();
